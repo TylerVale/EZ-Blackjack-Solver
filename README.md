@@ -7,4 +7,4 @@ The goal of this project is to replace the need to use blackjack hand charts for
 
 At the time of this program's creation, we are in an online casino boom. Many casinos offer promotional deals that grant players bonus funds upon deposit with the caveat that those bonus funds must be "played through". This has generated a niche group of players who are not interested in gambling but are instead interested in exploiting the casino bonus offers by playing high return-to-player games. Blackjack is one such game.
 
-This program is designed to allow any player to utilize optimal basic blackjack strategy (no counting) with zero experience, study, or chart usage. Just tell it the card values and it will tell you what to do.
+This program is designed to allow any player to utilize optimal basic blackjack strategy (no counting) with zero experience, study, or chart usage. Following the strategy recommended by this program will allow a player to approach 99% expected ROI over a large enough sample size.
